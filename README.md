@@ -13,6 +13,17 @@
 
 > this project is a fastai nbdev tutorial
 
+<div class="codecell" markdown="1">
+<div class="input_area" markdown="1">
+
+```python
+%load_ext autoreload
+%autoreload 2
+```
+
+</div>
+
+</div>
 
 This file will become your README and also the index of your documentation.
 
